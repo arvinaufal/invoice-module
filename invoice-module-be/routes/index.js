@@ -1,13 +1,10 @@
 const express = require('express');
 const { response } = require('../app');
+const InvoiceController = require('../controllers/InvoiceController');
 const router = express.Router();
 
-router.get('/', (request, response) => {
-    response.status(200).json({
-        "message": "Success",
-        "data" : "Successfully hitted"
-    });
-});
+router.post('/invoices/add', InvoiceController.create);
+router.get('/invoices', InvoiceController.getInvoices);
 
 
 module.exports = router;

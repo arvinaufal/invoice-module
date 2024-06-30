@@ -1,0 +1,115 @@
+[
+    {
+      "id": 1,
+      "name": "Banana",
+      "picture": "./images/banana.png",
+      "stock": 12,
+      "price": 5000
+    },
+    {
+      "id": 2,
+      "name": "Apple",
+      "picture": "./images/apple.png",
+      "stock": 10,
+      "price": 8500
+    },
+    {
+      "id": 3,
+      "name": "Milk",
+      "picture": "./images/milk.png",
+      "stock": 11,
+      "price": 35000
+    },
+    {
+      "id": 4,
+      "name": "Bread",
+      "picture": "./images/bread.png",
+      "stock": 13,
+      "price": 29900
+    },
+    {
+      "id": 5,
+      "name": "Eggs",
+      "picture": "./images/egg.png",
+      "stock": 16,
+      "price": 44900
+    },
+    {
+      "id": 6,
+      "name": "Orange Juice",
+      "picture": "./images/orange-juice.png",
+      "stock": 13,
+      "price": 39900
+    },
+    {
+      "id": 7,
+      "name": "Chicken Breast",
+      "picture": "./images/chicken-breast.png",
+      "stock": 18,
+      "price": 99900
+    },
+    {
+      "id": 8,
+      "name": "Yogurt",
+      "picture": "./images/yoghurt.png",
+      "stock": 13,
+      "price": 12900
+    },
+    {
+      "id": 9,
+      "name": "Cheese",
+      "picture": "./images/cheese.png",
+      "stock": 10,
+      "price": 59900
+    },
+    {
+      "id": 10,
+      "name": "Carrot",
+      "picture": "./images/carrot.png",
+      "stock": 10,
+      "price": 7900
+    },
+    {
+      "id": 11,
+      "name": "Tomato",
+      "picture": "./images/tomato.png",
+      "stock": 11,
+      "price": 14900
+    },
+    {
+      "id": 12,
+      "name": "Pasta",
+      "picture": "./images/pasta.png",
+      "stock": 17,
+      "price": 19900
+    },
+    {
+      "id": 13,
+      "name": "Bluetooth speaker",
+      "picture": "./images/bluetooth-speaker.png",
+      "stock": 15,
+      "price": 630000
+    },
+    {
+      "id": 14,
+      "name": "Headphone",
+      "picture": "./images/headphone.png",
+      "stock": 21,
+      "price": 400000
+    },
+    {
+      "id": 15,
+      "name": "Laptop charger",
+      "picture": "./images/laptop-charger.png",
+      "stock": 10,
+      "price": 800000
+    },
+    {
+      "id": 16,
+      "name": "LCD Monitor",
+      "picture": "./images/lcd-monitor.png",
+      "stock": 14,
+      "price": 500000
+    }
+  ]
+  
